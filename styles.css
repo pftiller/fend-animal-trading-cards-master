@@ -2,6 +2,10 @@
 body {
   width:325px;
 }
+ul {
+  list-style-type: none;
+  padding-left:0;
+}
 .card {
   box-shadow: 5px 5px 5px 0px rgba(211,211,211,1);
 }
